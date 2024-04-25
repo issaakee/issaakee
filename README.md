@@ -25,7 +25,7 @@ Here are some of my notable projects:
     - I developed an end-to-end machine-learning pipeline for this project using a publicly available car dataset from Kaggle. The pipeline covered data collection, preprocessing, exploration, feature engineering, model training, and assessment and concluded with insights drawn from the analysis.
 
 
-## About me other than data science?
+## About me other than Data Science?
 - Bachelor’s and master’s degree
     - I studied information systems and software engineering at Boumerdes University for 3 years. Then, I completed 1 year of my master’s degree in Software Engineering and Information Processing before moving to Germany.
 - Web-application Project
