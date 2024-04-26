@@ -43,10 +43,16 @@ Here are some of my notable projects:
     - [Adobe Premiere Pro CC Masterclass: Video Editing in Premiere](https://www.udemy.com/certificate/UC-89d49ccf-79b3-4f6d-b4ac-826f0eb86304/)
 
 - Online Freelancing
-    - While learning new skills and getting certificates, I worked as a freelance graphic designer on Fiverr.
-
-
-
+    - While learning new skills and getting certificates, I worked as a freelance graphic designer on Fiverr, which is shown on my LinkedIn
+- Languages 
+    - English C1
+    - French B2
+    - German B1
+    - Arabic C2
+- Overall Skills
+    - Programming languages: HTML| CSS | JAVASCRIPT | PHP | C | Python | C++ | JAVA
+    - Computer Science: Machine Learning| Information systems| Advanced databases
+    - Social Media marketing: MS Office |Writing abilities |Project management|content creation |analytical Skills |Branding 
 
 
 
