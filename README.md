@@ -32,7 +32,7 @@ Here are some of my notable projects:
     - Developed a dynamic web application leveraging ReactJS and an array of programming languages, including HTML, CSS, JavaScript, JSON, and SQL. Implemented modern techniques to deliver a robust and user-friendly solution [My website](https://Followied.com)
 
 - University Community
-    - I was one of the co-founders of GDSC University of Boumerdes, a community-powered by Google for Developers. We have organized many meetings, presentations, and workshops with essential doctors.
+    - I was one of the co-founders of GDSC University of Boumerdes, a community-powered by Google for Developers. We have organized many meetings, presentations, and workshops with essential Professionals .
 
 - Online certificates
     - I have completed an online course on cyber security and VFX, Motion Graphics, Animation+, and more fields found Here:
