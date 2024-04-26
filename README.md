@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ishak
 
 ## About Me
-I'm an enthusiastic AI and data science student, passionate about leveraging data to unravel insights and make informed decisions. With a strong foundation in data visualization, statistical analysis, and machine learning, I'm dedicated to exploring datasets to extract valuable insights and drive data-informed solutions.
+I'm an enthusiastic AI and data science Master's student, passionate about leveraging data to unravel insights and make informed decisions. With a strong foundation in data visualization, statistical analysis, and machine learning, I'm dedicated to exploring datasets to extract valuable insights and drive data-informed solutions.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Code GIF">
@@ -32,7 +32,7 @@ Here are some of my notable projects:
     - Developed a dynamic web application leveraging ReactJS and an array of programming languages, including HTML, CSS, JavaScript, JSON, and SQL. Implemented modern techniques to deliver a robust and user-friendly solution [My website](https://Followied.com)
 
 - University Community
-    I was one of the co-founders of GDSC University of Boumerdes, a community-powered by Google for Developers. We have organized many meetings, presentations, and workshops with essential doctors.
+    - I was one of the co-founders of GDSC University of Boumerdes, a community-powered by Google for Developers. We have organized many meetings, presentations, and workshops with essential doctors.
 
 - Online certificates
     - I have completed an online course on cyber security and VFX, Motion Graphics, Animation+, and more fields found Here:
