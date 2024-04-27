@@ -8,14 +8,16 @@ I'm an enthusiastic AI and data science Master's student, passionate about lever
 </p>
 
 ## Skills
-- Data Analysis
-- Data Visualization (Matplotlib, Seaborn, Plotly)
-- Statistical Analysis
-- Machine Learning (Scikit-learn, TensorFlow, Keras)
-- SQL
 - Python
-- R
-- Excel
+- Numpy,Pandas, Matplotlib, Seaborn
+-  Exploratory Data Analysis 
+- SQL
+- Machine Learning:Preprocessing , Model Building
+- Business Fundamentals,PowerPoint,Project Management
+- FastAPI
+- AWS
+- NLP and Computer Vision
+- Power BI or Tableau
 
 ## Projects
 Here are some of my notable projects:
