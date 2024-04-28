@@ -18,6 +18,7 @@ I'm an enthusiastic AI and data science Master's student, passionate about lever
 - AWS
 - NLP and Computer Vision
 - Power BI or Tableau
+- TensorFlow, PyTorch, scikit-learn, and Keras
 
 ## Projects
 Here are some of my notable projects:
