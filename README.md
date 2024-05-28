@@ -26,8 +26,9 @@ Here are some of my notable projects:
     - For this project, I conducted exploratory data analysis (EDA) on a publicly available dataset from Kaggle. Given my deep interest in football, I analyzed the dataset, covering necessary steps, including business context, data exploration, preprocessing, and a thorough EDA, followed by a discussion on the strengths and limitations of the analysis.
 - [end-to-end Machine Learning Pipeline](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
     - I developed an end-to-end machine-learning pipeline for this project using a publicly available car dataset from Kaggle. The pipeline covered data collection, preprocessing, exploration, feature engineering, model training, and assessment and concluded with insights drawn from the analysis.
-
-
+ 
+- and im currenty working on 3 more projects that i will release soon here
+      
 ## About me other than Data Science?
 - Bachelor’s and master’s degree
     - I studied information systems and software engineering at Boumerdes University for 3 years. Then, I completed 1 year of my master’s degree in Software Engineering and Information Processing before moving to Germany.
