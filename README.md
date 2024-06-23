@@ -27,8 +27,12 @@ Here are some of my notable projects:
 - [end-to-end Machine Learning Pipeline](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
     - I developed an end-to-end machine-learning pipeline for this project using a publicly available car dataset from Kaggle. The pipeline covered data collection, preprocessing, exploration, feature engineering, model training, and assessment and concluded with insights drawn from the analysis.
  
-- and im currenty working on 3 more projects that i will release soon here
-      
+- [Sign Language images Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
+    - I developed a model to classify ASL hand signs using the Sign Language MNIST dataset. The process included data loading, preprocessing, augmentation, and exploration. Various models and hyperparameter configurations were experimented with, and the performance was evaluated using confusion matrices and training history plots.
+    -  [Emotions text Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
+    - In this task, I developed an NLP system to identify emotions in Twitter posts using the "Emotions" dataset from Kaggle. The process included preprocessing the dataset, and cleaning the text data. Various models were compared and hyperparameters tuned. The results were evaluated using accuracy plots, confusion matrices, and word clouds, leading to a final discussion of the system's performance.
+
+
 ## About me other than Data Science?
 - Bachelor’s and master’s degree
     - I studied information systems and software engineering at Boumerdes University for 3 years. Then, I completed 1 year of my master’s degree in Software Engineering and Information Processing before moving to Germany.
