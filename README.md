@@ -29,7 +29,7 @@ Here are some of my notable projects:
  
 - [Sign Language images Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
     - I developed a model to classify ASL hand signs using the Sign Language MNIST dataset. The process included data loading, preprocessing, augmentation, and exploration. Various models and hyperparameter configurations were experimented with, and the performance was evaluated using confusion matrices and training history plots.
-    -  [Emotions text Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
+-  [Emotions text Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
     - In this task, I developed an NLP system to identify emotions in Twitter posts using the "Emotions" dataset from Kaggle. The process included preprocessing the dataset, and cleaning the text data. Various models were compared and hyperparameters tuned. The results were evaluated using accuracy plots, confusion matrices, and word clouds, leading to a final discussion of the system's performance.
 
 
@@ -51,7 +51,7 @@ Here are some of my notable projects:
     - [Adobe Premiere Pro CC Masterclass: Video Editing in Premiere](https://www.udemy.com/certificate/UC-89d49ccf-79b3-4f6d-b4ac-826f0eb86304/)
 
 - Online Freelancing
-    - While learning new skills and getting certificates, I worked as a freelance graphic designer on Fiverr, which is shown on my LinkedIn
+    - While learning new skills and getting certificates, I worked as a freelance graphic designer on Fiverr
 - Languages 
     - English C1
     - French B2
