@@ -7,20 +7,9 @@ I'm an enthusiastic AI and data science Master's student, passionate about lever
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Code GIF">
 </p>
 
-## Skills
-- Python
-- Numpy,Pandas, Matplotlib, Seaborn
--  Exploratory Data Analysis 
-- SQL
-- Machine Learning:Preprocessing , Model Building
-- Business Fundamentals,PowerPoint,Project Management
-- FastAPI
-- AWS
-- NLP and Computer Vision
-- Power BI 
-- TensorFlow, PyTorch, scikit-learn, and Keras
 
-## Projects
+
+## Projects % internship
 Here are some of my notable projects:
 - [Explanatory Data Analysis Pipeline Project](https://nbviewer.org/github/issaakee/machine_learning/blob/main/EDA.ipynb):
     - For this project, I conducted exploratory data analysis (EDA) on a publicly available dataset from Kaggle. Given my deep interest in football, I analyzed the dataset, covering necessary steps, including business context, data exploration, preprocessing, and a thorough EDA, followed by a discussion on the strengths and limitations of the analysis.
