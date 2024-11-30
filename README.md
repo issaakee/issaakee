@@ -26,10 +26,11 @@ Here are some of my notable projects:
     - For this project, I conducted exploratory data analysis (EDA) on a publicly available dataset from Kaggle. Given my deep interest in football, I analyzed the dataset, covering necessary steps, including business context, data exploration, preprocessing, and a thorough EDA, followed by a discussion on the strengths and limitations of the analysis.
 - [end-to-end Machine Learning Pipeline](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
     - I developed an end-to-end machine-learning pipeline for this project using a publicly available car dataset from Kaggle. The pipeline covered data collection, preprocessing, exploration, feature engineering, model training, and assessment and concluded with insights drawn from the analysis.
- 
-- [Sign Language images Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
+
+- [Sign Language images Prediction](https://nbviewer.org/github/issaakee/Deep-Learning/blob/main/image_Classification/Image%20Classification%20Project.ipynb):
     - I developed a model to classify ASL hand signs using the Sign Language MNIST dataset. The process included data loading, preprocessing, augmentation, and exploration. Various models and hyperparameter configurations were experimented with, and the performance was evaluated using confusion matrices and training history plots.
--  [Emotions text Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
+    
+-  [Emotions text Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/NLP.ipynb):
     - In this task, I developed an NLP system to identify emotions in Twitter posts using the "Emotions" dataset from Kaggle. The process included preprocessing the dataset, and cleaning the text data. Various models were compared and hyperparameters tuned. The results were evaluated using accuracy plots, confusion matrices, and word clouds, leading to a final discussion of the system's performance.
 
 
