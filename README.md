@@ -11,6 +11,17 @@ I'm an enthusiastic AI and data science Master's student, passionate about lever
 
 ## Projects % internship
 Here are some of my notable projects:
+
+
+- [Internship's First Deployment through AWS](https://staging.d3szjp8z47p9eo.amplifyapp.com/):
+    - Developed a robust consent verification system using AWS Lambda, API Gateway, and Amplify, integrating Whisper Tiny and ML algorithms to transcribe audio, analyze user consent, and ensure accurate compliance checks.
+- [Internship's Second Deployment through AWS](http://test2-env.eba-2nsrwmq2.us-east-1.elasticbeanstalk.com/):
+    - Built a scalable speaker diarization pipeline leveraging AWS Lambda, SQS, and S3, incorporating PyAnnote models to detect, segment, and analyze speakers in audio files, significantly enhancing audio processing workflows for production use.
+
+
+- [Paris Olympics EDA](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Paris_EDA.ipynb):
+    - Performed a comprehensive exploratory data analysis on the Paris 2024 Olympic Games, analyzing athlete performance, event schedules, and key patterns. Created detailed visualizations and extracted actionable insights using Python libraries such as Pandas, Matplotlib, and Seaborn.
+
 - [Explanatory Data Analysis Pipeline Project](https://nbviewer.org/github/issaakee/machine_learning/blob/main/EDA.ipynb):
     - For this project, I conducted exploratory data analysis (EDA) on a publicly available dataset from Kaggle. Given my deep interest in football, I analyzed the dataset, covering necessary steps, including business context, data exploration, preprocessing, and a thorough EDA, followed by a discussion on the strengths and limitations of the analysis.
 - [end-to-end Machine Learning Pipeline](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
@@ -48,7 +59,7 @@ Here are some of my notable projects:
     - Arabic C2
 - Overall Skills
     - Programming languages: HTML| CSS | JAVASCRIPT | PHP | C | Python | C++ | JAVA
-    - Computer Science: Machine Learning| Information systems| Advanced databases
+    - Computer Science: AWS| Machine Learning| Information systems| Advanced databases
     - Social Media marketing: MS Office |Writing abilities |Project management|content creation |analytical Skills |Branding 
 
 
