@@ -34,7 +34,7 @@ Here are some of my notable projects:
 
 
 ## About me other than Data Science?
-- Bachelor’s and master’s degree
+- Bachelor’s and master’s degree with a bachelor’s thesis with the ministry of Labor
     - I studied information systems and software engineering at Boumerdes University for 3 years. Then, I completed 1 year of my master’s degree in Software Engineering and Information Processing before moving to Germany.
 - Web-application Project
     - Developed a dynamic web application leveraging ReactJS and an array of programming languages, including HTML, CSS, JavaScript, JSON, and SQL. Implemented modern techniques to deliver a robust and user-friendly solution [My website](https://Followied.com)
