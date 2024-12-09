@@ -15,7 +15,7 @@ Here are some of my notable projects:
 
 - [Internship's First Deployment through AWS](https://staging.d3szjp8z47p9eo.amplifyapp.com/):
     - Developed a robust consent verification system using AWS Lambda, API Gateway, and Amplify, integrating Whisper Tiny and ML algorithms to transcribe audio, analyze user consent, and ensure accurate compliance checks.
-- [Internship's Second Deployment through AWS](http://test2-env.eba-2nsrwmq2.us-east-1.elasticbeanstalk.com/):
+- [Internship's Second Deployment through AWS](https://staging.d1apl3a9wobv5h.amplifyapp.com/):
     - Built a scalable speaker diarization pipeline leveraging AWS Lambda, SQS, and S3, incorporating PyAnnote models to detect, segment, and analyze speakers in audio files, significantly enhancing audio processing workflows for production use.
 
 
