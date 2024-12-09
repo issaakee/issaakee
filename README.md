@@ -55,8 +55,8 @@ Here are some of my notable projects:
     - While learning new skills and getting certificates, I worked as a freelance graphic designer on Fiverr
 - Languages 
     - English C1
+    - German B2
     - French B2
-    - German B1
     - Arabic C2
 - Overall Skills
     - Programming languages: HTML| CSS | JAVASCRIPT | PHP | C | Python | C++ | JAVA
